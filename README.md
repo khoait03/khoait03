@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nguyen Le Anh Khoa</h1>
 <img align="center" alt="coding" width="1000" margin="20px 0" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
 
+## 🚀 Popular Repositories
+
+| Repository | Description                             | Tech Stack                                                                                                                                                                                                                                                                     | Public |
+|------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [CanThoItJob](https://github.com/khoait03/CanThoItJob) | Website tuyển dụng và tìm kiếm việc làm | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ✅ |
+| [portfolio-khoadev](https://github.com/khoait03/portfolio-khoadev) | Portfolio cá nhân của KhoaDev           | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)                                                                                      | ✅ |
+| [vphome_ecommerce](https://github.com/khoait03/vphome_ecommerce) | Trang thương mại điện tử VP Home        | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)                                                                          | ✅ |
+
 
 ```php
 class KhoaNguyen {
