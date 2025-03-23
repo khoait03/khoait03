@@ -31,9 +31,9 @@ class KhoaNguyen {
         $this->graduation_year = 2025;
         $this->school = "FPT";
         $this->hobbies = ["music", "gaming", "coding"];
-        $this->favorite_language = ["JavaScript","PHP"];
+        $this->favorite_language = ["JavaScript", "TypeScript", "PHP"];
         $this->favorite_frameworks_libraries = ["Reactjs", "NextJS", "Laravel", "Bootstrap", "Taildwind"];
-        $this->database = ["MySQL","MongoDB"];
+        $this->database = ["MySQL", "PostgreSQL", "MongoDB"];
     }
 }
 ```
